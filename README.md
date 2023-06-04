@@ -1,1 +1,2 @@
-# currency-converter
+# Currency Converter
+A simple Currency Converter app.
